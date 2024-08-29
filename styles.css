@@ -243,6 +243,7 @@ body {
 @media (max-width: 550px){
     body{
         background-color: var(--white);
+        align-items:flex-start;
     }
     .notification-container{
         margin: 0;
