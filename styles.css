@@ -138,6 +138,7 @@ body {
     color: var(--dark-grayish-blue-2);
 }
 .new .red-dot{
+    display: inline-block;
     background-color: var(--red);
     width: 10px;
     height: 10px;
