@@ -140,8 +140,8 @@ body {
 .new .red-dot{
     display: inline-block; 
     background-color: var(--red);
-    width: 10px;
-    height: 10px;
+    width: 8px;
+    height: 8px;
     border-radius: 50%;
 }
 
@@ -211,6 +211,13 @@ body {
     .msg{
         padding: 15px;
     }
+    .new .red-dot{
+    
+    width: 7px;
+    height: 7px;
+    
+}
+
 
 
 
@@ -224,6 +231,13 @@ body {
         width: 90vw;
         padding: 1.5rem;
     }
+    .new .red-dot{
+    
+    width: 6px;
+    height: 6px;
+    
+}
+
 }
 
 @media (max-width: 550px){
@@ -244,6 +258,12 @@ body {
     .header h2 span {
         font-size: 0.68rem;
     }
+    .new .red-dot{
+    
+    width: 5px;
+    height: 5px;
+    
+}
 
 
 }
